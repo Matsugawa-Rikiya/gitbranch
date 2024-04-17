@@ -1,5 +1,3 @@
 # gitbranch
+    ああああああ
 # gitbranch
- テスト
-# gitbranch
-    -ああああ-
